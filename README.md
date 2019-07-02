@@ -9,3 +9,7 @@ Comprehensive overview: <a>http://www.sthda.com/english/wiki/ggplot2-essentials<
 
 ### Infographics:
 <a>http://visualoop.com</a>
+
+
+# Data Sources:
+Major administrative datasets of the U.S. government: https://journalistsresource.org/tip-sheets/research/websites-u-s-federal-government-administrative-datasets/
