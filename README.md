@@ -4,6 +4,8 @@ Short code snippets for various gglot graphics
 ### Useful references for ggplot: <br>
 Comprehensive overview: <a>http://www.sthda.com/english/wiki/ggplot2-essentials</a>
 
+Selected graphics: <a>https://therbootcamp.github.io/BaselRBootcamp_2018April/_sessions/D3S2_PlottingI/PlottingI_practical_answers.html</a>
+
 ### Stunning Visualizations:
 <a>http://moebio.com/research/lifeuniverse/</a>
 
