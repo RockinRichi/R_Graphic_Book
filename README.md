@@ -6,6 +6,8 @@ Comprehensive overview: <a>http://www.sthda.com/english/wiki/ggplot2-essentials<
 
 Selected graphics: <a>https://therbootcamp.github.io/BaselRBootcamp_2018April/_sessions/D3S2_PlottingI/PlottingI_practical_answers.html</a>
 
+Joyplots: https://eagereyes.org/blog/2017/joy-plots
+
 ### Stunning Visualizations:
 <a>http://moebio.com/research/lifeuniverse/</a>
 
