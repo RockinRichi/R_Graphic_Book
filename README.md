@@ -25,3 +25,10 @@ https://catalog.data.gov/
 
 #### Get Script Directory
 dirname(rstudioapi::getSourceEditorContext()$path)
+
+
+# Create an R-package:
+
+https://www.brodrigues.co/blog/2019-04-28-diffindiff_part1/
+
+https://www.brodrigues.co/blog/2019-05-04-diffindiff_part2/
