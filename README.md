@@ -2,9 +2,16 @@
 Short code snippets for various gglot graphics
 
 ### Useful references for ggplot: <br>
-Comprehensive overview: <a>http://www.sthda.com/english/wiki/ggplot2-essentials</a>
+Comprehensive overviews: <br>
+http://www.sthda.com/english/wiki/ggplot2-essentials <br>
+https://www.r-graph-gallery.com/
+
+Dont's:<br>
+https://www.data-to-viz.com/caveats.html
 
 Selected graphics: <a>https://therbootcamp.github.io/BaselRBootcamp_2018April/_sessions/D3S2_PlottingI/PlottingI_practical_answers.html</a>
+
+https://blog.datawrapper.de/
 
 Joyplots: https://eagereyes.org/blog/2017/joy-plots
 
