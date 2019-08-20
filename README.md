@@ -21,6 +21,9 @@ Joyplots: https://eagereyes.org/blog/2017/joy-plots
 ### Infographics:
 <a>http://visualoop.com</a>
 
+# Cheatsheets:
+
+https://github.com/rstudio/cheatsheets
 
 # Data Sources:
 Major administrative datasets of the U.S. government: https://journalistsresource.org/tip-sheets/research/websites-u-s-federal-government-administrative-datasets/
