@@ -9,8 +9,7 @@ https://www.r-graph-gallery.com/
 Dont's:<br>
 https://www.data-to-viz.com/caveats.html
 
-Selected graphics: <a>https://therbootcamp.github.io/BaselRBootcamp_2018April/_sessions/D3S2_PlottingI/PlottingI_practical_answers.html</a>
-
+Selected graphics: <a>https://therbootcamp.github.io/BaselRBootcamp_2018April/_sessions/D3S2_PlottingI/PlottingI_practical_answers.html</a>  <br>
 https://blog.datawrapper.de/
 
 Joyplots: https://eagereyes.org/blog/2017/joy-plots
@@ -20,6 +19,14 @@ Joyplots: https://eagereyes.org/blog/2017/joy-plots
 
 ### Infographics:
 <a>http://visualoop.com</a>
+
+# Publication Editing
+
+Tables: <br>
+https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#overview
+
+Plots: <br>
+http://www.sthda.com/english/wiki/print.php?id=177
 
 # Cheatsheets:
 
@@ -37,8 +44,6 @@ https://catalog.data.gov/
 dirname(rstudioapi::getSourceEditorContext()$path)
 
 
-# Create an R-package:
-
-https://www.brodrigues.co/blog/2019-04-28-diffindiff_part1/
-
+# Create an R-package:  <br>
+https://www.brodrigues.co/blog/2019-04-28-diffindiff_part1/  <br>
 https://www.brodrigues.co/blog/2019-05-04-diffindiff_part2/
